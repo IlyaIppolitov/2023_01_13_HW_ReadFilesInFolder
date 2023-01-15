@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadThreeFiles", "ReadThreeFiles\ReadThreeFiles.csproj", "{32C87B5E-B2AB-4522-A0C5-33249E6F4E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSpacesInFiles", "CountSpacesInFiles\CountSpacesInFiles.csproj", "{42A6A8E2-F304-4136-B531-92724696BDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C87B5E-B2AB-4522-A0C5-33249E6F4E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C87B5E-B2AB-4522-A0C5-33249E6F4E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C87B5E-B2AB-4522-A0C5-33249E6F4E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C87B5E-B2AB-4522-A0C5-33249E6F4E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A6A8E2-F304-4136-B531-92724696BDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A6A8E2-F304-4136-B531-92724696BDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A6A8E2-F304-4136-B531-92724696BDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A6A8E2-F304-4136-B531-92724696BDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F265BEC-6A13-4396-B10B-86F8F4B0550F}
+	EndGlobalSection
+EndGlobal
